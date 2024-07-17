@@ -1,0 +1,10 @@
+.parent {
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    margin: 0 auto;
+}
+
+.red {
+    background-color: red;
+}
